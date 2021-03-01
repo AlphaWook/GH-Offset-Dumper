@@ -1,6 +1,6 @@
 {
-  "executable": "csgo.exe",
-  "filename": "csgo",
+  "executable": "ShooterGame.exe",
+  "filename": "Ark",
   "signatures": [
     {
       "name": "dwClientState",
